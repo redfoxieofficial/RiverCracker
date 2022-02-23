@@ -17,7 +17,7 @@ class Pencere(QtWidgets.QWidget):
 
         self.deger =  QtWidgets.QLineEdit()
         self.wordlist = QtWidgets.QPushButton("Wordlist Seçiniz")
-        self.giris = QtWidgets.QPushButton("Deger Girin")
+        self.giris = QtWidgets.QPushButton("Şireyi Kırın")
         self.md5_buton = QtWidgets.QRadioButton("MD5")
         self.md4_buton = QtWidgets.QRadioButton("MD4")
         self.sha1_buton = QtWidgets.QRadioButton("SHA1")
